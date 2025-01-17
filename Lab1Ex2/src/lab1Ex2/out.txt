@@ -1,0 +1,4 @@
+Suma: 27
+Media aritmetică: 4.5
+Minimul: 2
+Maximul: 8
